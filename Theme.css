@@ -1084,7 +1084,7 @@ a:link {
 }
 #autocomplete-popout .row.selected,
 #autocomplete-popout .row:hover {
-    background: linear-gradient(90deg, #36393F, #303238);
+    background: linear-gradient(90deg, #000000, #303238);
 }
 #autocomplete-popout .empty p {
     color: #650202;
